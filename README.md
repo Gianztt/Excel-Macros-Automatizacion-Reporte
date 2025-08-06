@@ -202,7 +202,7 @@ Este proyecto demuestra cómo aplicar **automatización con VBA en tareas reales
 
 ## 📁 Archivos incluidos
 
-- `macro_reportes.xlsm`: archivo principal con macros y botón de ejecución.
+- `ReporteVentas.xlsm`: archivo principal con macros y botón de ejecución.
 - Carpeta `/Datos_Ventas`: contiene los archivos de ventas mensuales.
 - `README.md`: descripción detallada del proyecto.
 
